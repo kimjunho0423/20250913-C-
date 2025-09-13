@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\control statement(ex)\bin\Debug\net8.0\control statement(ex).exe
+C:\Users\Administrator\source\repos\control statement(ex)\bin\Debug\net8.0\control statement(ex).deps.json
+C:\Users\Administrator\source\repos\control statement(ex)\bin\Debug\net8.0\control statement(ex).runtimeconfig.json
+C:\Users\Administrator\source\repos\control statement(ex)\bin\Debug\net8.0\control statement(ex).dll
+C:\Users\Administrator\source\repos\control statement(ex)\bin\Debug\net8.0\control statement(ex).pdb
+C:\Users\Administrator\source\repos\control statement(ex)\obj\Debug\net8.0\control statement(ex).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\control statement(ex)\obj\Debug\net8.0\control statement(ex).AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\control statement(ex)\obj\Debug\net8.0\control statement(ex).AssemblyInfo.cs
+C:\Users\Administrator\source\repos\control statement(ex)\obj\Debug\net8.0\control statement(ex).csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\control statement(ex)\obj\Debug\net8.0\control statement(ex).dll
+C:\Users\Administrator\source\repos\control statement(ex)\obj\Debug\net8.0\refint\control statement(ex).dll
+C:\Users\Administrator\source\repos\control statement(ex)\obj\Debug\net8.0\control statement(ex).pdb
+C:\Users\Administrator\source\repos\control statement(ex)\obj\Debug\net8.0\control statement(ex).genruntimeconfig.cache
+C:\Users\Administrator\source\repos\control statement(ex)\obj\Debug\net8.0\ref\control statement(ex).dll

@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\operator(ex)\bin\Debug\net8.0\operator(ex).exe
+C:\Users\Administrator\source\repos\operator(ex)\bin\Debug\net8.0\operator(ex).deps.json
+C:\Users\Administrator\source\repos\operator(ex)\bin\Debug\net8.0\operator(ex).runtimeconfig.json
+C:\Users\Administrator\source\repos\operator(ex)\bin\Debug\net8.0\operator(ex).dll
+C:\Users\Administrator\source\repos\operator(ex)\bin\Debug\net8.0\operator(ex).pdb
+C:\Users\Administrator\source\repos\operator(ex)\obj\Debug\net8.0\operator(ex).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\operator(ex)\obj\Debug\net8.0\operator(ex).AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\operator(ex)\obj\Debug\net8.0\operator(ex).AssemblyInfo.cs
+C:\Users\Administrator\source\repos\operator(ex)\obj\Debug\net8.0\operator(ex).csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\operator(ex)\obj\Debug\net8.0\operator(ex).dll
+C:\Users\Administrator\source\repos\operator(ex)\obj\Debug\net8.0\refint\operator(ex).dll
+C:\Users\Administrator\source\repos\operator(ex)\obj\Debug\net8.0\operator(ex).pdb
+C:\Users\Administrator\source\repos\operator(ex)\obj\Debug\net8.0\operator(ex).genruntimeconfig.cache
+C:\Users\Administrator\source\repos\operator(ex)\obj\Debug\net8.0\ref\operator(ex).dll
