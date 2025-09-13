@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\position number system\bin\Debug\net8.0\position number system.exe
+C:\Users\Administrator\source\repos\position number system\bin\Debug\net8.0\position number system.deps.json
+C:\Users\Administrator\source\repos\position number system\bin\Debug\net8.0\position number system.runtimeconfig.json
+C:\Users\Administrator\source\repos\position number system\bin\Debug\net8.0\position number system.dll
+C:\Users\Administrator\source\repos\position number system\bin\Debug\net8.0\position number system.pdb
+C:\Users\Administrator\source\repos\position number system\obj\Debug\net8.0\position number system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\position number system\obj\Debug\net8.0\position number system.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\position number system\obj\Debug\net8.0\position number system.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\position number system\obj\Debug\net8.0\position number system.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\position number system\obj\Debug\net8.0\position number system.dll
+C:\Users\Administrator\source\repos\position number system\obj\Debug\net8.0\refint\position number system.dll
+C:\Users\Administrator\source\repos\position number system\obj\Debug\net8.0\position number system.pdb
+C:\Users\Administrator\source\repos\position number system\obj\Debug\net8.0\position number system.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\position number system\obj\Debug\net8.0\ref\position number system.dll
