@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\20250927-3oop\20250927-3oop\bin\Debug\net10.0\20250927-3oop.exe
+C:\Users\Administrator\source\repos\20250927-3oop\20250927-3oop\bin\Debug\net10.0\20250927-3oop.deps.json
+C:\Users\Administrator\source\repos\20250927-3oop\20250927-3oop\bin\Debug\net10.0\20250927-3oop.runtimeconfig.json
+C:\Users\Administrator\source\repos\20250927-3oop\20250927-3oop\bin\Debug\net10.0\20250927-3oop.dll
+C:\Users\Administrator\source\repos\20250927-3oop\20250927-3oop\bin\Debug\net10.0\20250927-3oop.pdb
+C:\Users\Administrator\source\repos\20250927-3oop\20250927-3oop\obj\Debug\net10.0\20250927-3oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\20250927-3oop\20250927-3oop\obj\Debug\net10.0\20250927-3oop.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\20250927-3oop\20250927-3oop\obj\Debug\net10.0\20250927-3oop.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\20250927-3oop\20250927-3oop\obj\Debug\net10.0\20250927-3oop.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\20250927-3oop\20250927-3oop\obj\Debug\net10.0\20250927-3oop.dll
+C:\Users\Administrator\source\repos\20250927-3oop\20250927-3oop\obj\Debug\net10.0\refint\20250927-3oop.dll
+C:\Users\Administrator\source\repos\20250927-3oop\20250927-3oop\obj\Debug\net10.0\20250927-3oop.pdb
+C:\Users\Administrator\source\repos\20250927-3oop\20250927-3oop\obj\Debug\net10.0\20250927-3oop.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\20250927-3oop\20250927-3oop\obj\Debug\net10.0\ref\20250927-3oop.dll

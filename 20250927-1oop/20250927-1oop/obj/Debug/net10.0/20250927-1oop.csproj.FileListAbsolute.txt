@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\20250927-1oop\20250927-1oop\obj\Debug\net10.0\_20250927_1oop.Properties.Resources.resources
+C:\Users\Administrator\source\repos\20250927-1oop\20250927-1oop\obj\Debug\net10.0\20250927-1oop.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\20250927-1oop\20250927-1oop\obj\Debug\net10.0\20250927-1oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\20250927-1oop\20250927-1oop\obj\Debug\net10.0\20250927-1oop.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\20250927-1oop\20250927-1oop\obj\Debug\net10.0\20250927-1oop.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\20250927-1oop\20250927-1oop\obj\Debug\net10.0\20250927-1oop.csproj.CoreCompileInputs.cache
